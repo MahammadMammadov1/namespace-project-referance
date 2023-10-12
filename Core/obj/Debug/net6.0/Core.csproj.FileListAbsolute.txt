@@ -1,0 +1,11 @@
+C:\Users\Mehemmed\Desktop\BP206task\Namespace, Project reference, Access modifiers II, StringBuilder\Core\bin\Debug\net6.0\Core.deps.json
+C:\Users\Mehemmed\Desktop\BP206task\Namespace, Project reference, Access modifiers II, StringBuilder\Core\bin\Debug\net6.0\Core.dll
+C:\Users\Mehemmed\Desktop\BP206task\Namespace, Project reference, Access modifiers II, StringBuilder\Core\bin\Debug\net6.0\Core.pdb
+C:\Users\Mehemmed\Desktop\BP206task\Namespace, Project reference, Access modifiers II, StringBuilder\Core\obj\Debug\net6.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mehemmed\Desktop\BP206task\Namespace, Project reference, Access modifiers II, StringBuilder\Core\obj\Debug\net6.0\Core.AssemblyInfoInputs.cache
+C:\Users\Mehemmed\Desktop\BP206task\Namespace, Project reference, Access modifiers II, StringBuilder\Core\obj\Debug\net6.0\Core.AssemblyInfo.cs
+C:\Users\Mehemmed\Desktop\BP206task\Namespace, Project reference, Access modifiers II, StringBuilder\Core\obj\Debug\net6.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\Mehemmed\Desktop\BP206task\Namespace, Project reference, Access modifiers II, StringBuilder\Core\obj\Debug\net6.0\Core.dll
+C:\Users\Mehemmed\Desktop\BP206task\Namespace, Project reference, Access modifiers II, StringBuilder\Core\obj\Debug\net6.0\refint\Core.dll
+C:\Users\Mehemmed\Desktop\BP206task\Namespace, Project reference, Access modifiers II, StringBuilder\Core\obj\Debug\net6.0\Core.pdb
+C:\Users\Mehemmed\Desktop\BP206task\Namespace, Project reference, Access modifiers II, StringBuilder\Core\obj\Debug\net6.0\ref\Core.dll
